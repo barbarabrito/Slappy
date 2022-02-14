@@ -19,4 +19,6 @@ ou
 `python slappy.py`
 
 
-Certifique-se de que o python está configurado no <a href="https://datatofish.com/add-python-to-windows-path" target="_blank">PATH do Windows</a>
+Certifique-se de que o python está configurado no <a href="https://datatofish.com/add-python-to-windows-path" target="_blank">PATH do Windows</a> <br/>
+
+![preview picture](/print/slappy_print_r.png)
