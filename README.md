@@ -1,6 +1,6 @@
 # Slappy
 
-Um script que lê notícias de cinco jornais/portais brasileiros usando o terminal do computador.
+Um script que lê notícias de cinco jornais/portais brasileiros usando o terminal do computador. Paywall bypasser.
 
 Bibliotecas usadas: <a href="https://beautiful-soup-4.readthedocs.io" target="_blank"> Beautiful Soup</a>,  <a href="https://docs.python-requests.org" target="_blank"> Requests </a>
 
